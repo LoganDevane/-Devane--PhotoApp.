@@ -1,62 +1,62 @@
 {
     "images": [
         {
-            "imgPath": "img/places/49ers.jpg",
-            "imgLocation": "Australia",
+            "imgPath": "img/jerseys/creamsicle.jpg",
+            "imgLocation": "Tampa Bay",
             "description": "Loch Ard Gorge",
             "date": "01/01/2016"
         },
         {
-            "imgPath": "img/places/seahawks.jpg",
-            "imgLocation": "Austria",
+            "imgPath": "img/jerseys/seahawks.jpg",
+            "imgLocation": "Seattle",
             "description": "Austrian chapel",
             "date": "01/02/2016"
         },
         {
-            "imgPath": "img/places/steelers.jpg",
-            "imgLocation": "Paris",
+            "imgPath": "img/jerseys/fins.jpg",
+            "imgLocation": "Miami",
             "description": "Eiffel Tower",
             "date": "01/03/2016"
         },
         {
-            "imgPath": "img/places/49ers.jpg",
-            "imgLocation": "Greece",
+            "imgPath": "img/jerseys/49ers.jpg",
+            "imgLocation": "San Francisco",
             "description": "Greek coastline",
             "date": "01/04/2016"
         },
         {
-            "imgPath": "img/places/falcons.jpg",
-            "imgLocation": "Hungary",
+            "imgPath": "img/jerseys/falcons.jpg",
+            "imgLocation": "Atlanta",
             "description": "Budapest skyline",
             "date": "01/05/2016"
         },
         {
-            "imgPath": "img/places/Jags.jpg",
-            "imgLocation": "India",
+            "imgPath": "img/jerseys/Jags.jpg",
+            "imgLocation": "Jaxonville",
             "description": "Taj Mahal",
             "date": "01/06/2016"
         },
         {
-            "imgPath": "img/places/Raiders.jpg",
-            "imgLocation": "Italy",
+            "imgPath": "img/jerseys/Raiders.jpg",
+            "imgLocation": "las vegas",
             "description": "Venice",
             "date": "01/07/2016"
         },
         {
-            "imgPath": "img/places/Packers.jpg",
-            "imgLocation": "Japan",
+            "imgPath": "img/jerseys/Packers.jpg",
+            "imgLocation": "Green Bay",
             "description": "Hirosaki Castle",
             "date": "01/08/2016"
         },
         {
-            "imgPath": "img/places/steelers.jpg",
-            "imgLocation": "South Korea",
-            "description": "Seoul",
+            "imgPath": "img/jerseys/steelers.jpg",
+            "imgLocation": "Pittsburgh",
+            "description": "Steelers Stadium",
             "date": "01/09/2016"
         },
         {
-            "imgPath": "img/places/vikings.jpg",
-            "imgLocation": "Norway",
+            "imgPath": "img/jerseys/vikings.jpg",
+            "imgLocation": "Minnesota",
             "description": "Countryside mountains",
             "date": "01/10/2016"
         }
