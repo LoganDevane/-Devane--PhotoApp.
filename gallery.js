@@ -22,9 +22,9 @@ $(document).ready(() => {
 
 // Function to fetch JSON data and store it in mImages
 function fetchJSON () {
- $.getJSON('myImages.json', function(data)) {
+ $.getJSON('myImages.json', function(data) {
   Images=data;
- }
+ })
    
 }
 
